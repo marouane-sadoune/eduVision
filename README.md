@@ -1,5 +1,5 @@
 # EduVision
 
-This is a project help kids to learn by very funny way.
+This is a project help kids to learn by creative way.
 
 
